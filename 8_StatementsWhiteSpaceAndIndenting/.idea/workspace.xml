@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2428625f-9274-45b3-ab70-258e4b6e989a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhawan/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2428625f-9274-45b3-ab70-258e4b6e989a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +100,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1593" y="0" width="1476" height="1064" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25353107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
