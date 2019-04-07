@@ -3,10 +3,10 @@ package com.dhawan;
 public class Main {
 
     public static void main(String[] args) {
-        //isLeapYear(-1600);
-        //isLeapYear(1600);
-        //isLeapYear(2017);
-        //isLeapYear(2000);
+        isLeapYear(-1600);
+        isLeapYear(1600);
+        isLeapYear(2017);
+        isLeapYear(2000);
 
         getDaysInMonth(1, 2020);
         getDaysInMonth(2, 2020);
