@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a83896-0d62-4484-b91b-3bb565e22fb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../17_FirstAndLastDigitSum/17_FirstAndLastDigitSum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_While/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_While/out/production/14_While/com/dhawan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_While/out/production/14_While/com/dhawan/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../14_While/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14_While/src/com/dhawan/Main.java" afterDir="false" />
+    <list default="true" id="0283bf54-bba0-49c4-82e7-fb05d33b0080" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercises/24_NumberToWords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/24_NumberToWords/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +11,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+            <state relative-caret-position="694">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -32,7 +25,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,9 +43,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1593" />
-    <option name="width" value="1526" />
-    <option name="height" value="1047" />
+    <option name="x" value="1598" />
+    <option name="y" value="3" />
+    <option name="width" value="1519" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -60,8 +54,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -80,7 +74,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.dhawan.Main" />
-      <module name="24_NumberToWords" />
+      <module name="16_ReadingUserInput" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -99,31 +93,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03a83896-0d62-4484-b91b-3bb565e22fb0" name="Default Changelist" comment="" />
-      <created>1555330262887</created>
+      <changelist id="0283bf54-bba0-49c4-82e7-fb05d33b0080" name="Default Changelist" comment="" />
+      <created>1555879270159</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555330262887</updated>
+      <updated>1555879270159</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1593" y="0" width="1526" height="1047" extended-state="0" />
+    <frame x="1598" y="3" width="1519" height="1042" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13096862" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16792324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32932165" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23304157" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -141,8 +135,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        <state relative-caret-position="694">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
         </state>
       </provider>
     </entry>
