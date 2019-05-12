@@ -15,7 +15,7 @@ public class Main {
             int order = counter + 1;
             System.out.println("Enter number #" + order + ":");
 
-            boolean isAnInt =  scanner.hasNextInt();
+            boolean isAnInt = scanner.hasNextInt();
             if(isAnInt){
                 int number = scanner.nextInt();
                 counter++;
