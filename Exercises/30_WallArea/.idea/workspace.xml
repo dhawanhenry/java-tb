@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c3f971-bdca-47eb-8d66-b5a1215ef19d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../18_Constructors/src/com/dhawan/VipPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../16_ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../16_ReadingUserInputChallenge/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../16_ReadingUserInputChallenge/src/com/dhawan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../17_Classes/src/com/dhawan/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17_Classes/src/com/dhawan/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../17_Classes_Person/src/com/dhawan/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17_Classes_Person/src/com/dhawan/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../18_Constructors/src/com/dhawan/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../18_Constructors/src/com/dhawan/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18_Constructors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../18_Constructors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhawan/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhawan/Wall.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -32,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Wall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="308">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -56,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dhawan/Wall.java" />
         <option value="$PROJECT_DIR$/src/com/dhawan/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Wall.java" />
       </list>
     </option>
   </component>
@@ -98,6 +92,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,17 +171,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Wall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>

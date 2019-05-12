@@ -7,7 +7,13 @@ public class Wall {
 
     public Wall(double width, double height) {
         System.out.println("Wall constructor with parameters called.");
+        if(width < 0){
+            width = 0;
+        }
         this.width = width;
+        if(height < 0){
+            height = 0;
+        }
         this.height = height;
     }
 

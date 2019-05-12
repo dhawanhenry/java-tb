@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93d70bf7-ec05-4883-a34e-e40d5b89d64e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/VipPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16_ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_ReadingUserInputChallenge/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16_ReadingUserInputChallenge/src/com/dhawan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_Person/src/com/dhawan/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes_Person/src/com/dhawan/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dhawan/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhawan/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Wall.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,6 +111,9 @@
       </pane>
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
