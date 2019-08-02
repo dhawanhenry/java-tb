@@ -10,10 +10,9 @@ public class Car {
 
     public void setModel(String model){
         String validModel = model.toLowerCase();
-        if(validModel.equals("carrera") || validModel.equals("commodore")){
+        if(validModel.equals("carrera") || validModel.equals("holden")){
             this.model = model;
-
-        } else{
+        } else {
             this.model = "Unknown";
         }
     }
@@ -21,6 +20,4 @@ public class Car {
     public String getModel(){
         return this.model;
     }
-
-
 }

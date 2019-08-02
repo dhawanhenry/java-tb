@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6e144f5-dca7-45a1-8019-6d2b86c3eea1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../18_Classes_Constructors_Challenge/src/com/dhawan/VipCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/18_Constructors/src/com/dhawan/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/30_SumCalculator/src/com/dhawan/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/31_Person/src/com/dhawan/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_Constructor_WallArea/src/com/dhawan/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_Constructor_Point/src/com/dhawan/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/src/com/dhawan/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/36_Inheritance_Cylinder/src/com/dhawan/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/36_Inheritance_Cylinder/src/com/dhawan/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/37_Inheritance_PoolArea/src/com/dhawan/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/37_Inheritance_PoolArea/src/com/dhawan/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/17_Classes_SumCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/out/production/17_Classes_SumCalculator/com/dhawan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/out/production/17_Classes_SumCalculator/com/dhawan/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/18_Constructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/VipPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/VipPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/30_WallArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/31_Point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/out/production/31_Point/com/dhawan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/out/production/31_Point/com/dhawan/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/src/com/dhawan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/src/com/dhawan/Point.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Motherboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Case.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Dimensions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/PC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Resolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/dhawan/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Motherboard.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Resolution.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Case.java" />
+        <option value="$PROJECT_DIR$/src/Dimensions.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/PC.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="19_Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="19_Composition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="19_Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="19_Composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="19_Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="19_Composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dhawan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhawan.Main" />
+      <module name="19_Composition" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e144f5-dca7-45a1-8019-6d2b86c3eea1" name="Default Changelist" comment="" />
+      <created>1564085322010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564085322010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.20154044" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.20154044" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Motherboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Resolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Dimensions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
