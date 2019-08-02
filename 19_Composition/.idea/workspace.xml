@@ -2,95 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6e144f5-dca7-45a1-8019-6d2b86c3eea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../18_Classes_Constructors_Challenge/src/com/dhawan/VipCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/dhawan/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Outlander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/dhawan/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/18_Constructors/src/com/dhawan/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/30_SumCalculator/src/com/dhawan/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/31_Person/src/com/dhawan/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_Constructor_WallArea/src/com/dhawan/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_Constructor_Point/src/com/dhawan/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/34_Constructor_CarpetCostCalculator/src/com/dhawan/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/35_Constructor_ComplexOperations/src/com/dhawan/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/36_Inheritance_Cylinder/src/com/dhawan/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/36_Inheritance_Cylinder/src/com/dhawan/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/37_Inheritance_PoolArea/src/com/dhawan/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/37_Inheritance_PoolArea/src/com/dhawan/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/out/production/17_Classes/com/dhawan/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../17_Classes/src/com/dhawan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/17_Classes_SumCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/out/production/17_Classes_SumCalculator/com/dhawan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/out/production/17_Classes_SumCalculator/com/dhawan/SimpleCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../17_Classes_SumCalculator/src/com/dhawan/SimpleCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/18_Constructors.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/out/production/18_Constructors/com/dhawan/VipPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18_Constructors/src/com/dhawan/VipPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/30_WallArea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/out/production/30_WallArea/com/dhawan/Wall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/30_WallArea/src/com/dhawan/Wall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/31_Point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/out/production/31_Point/com/dhawan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/out/production/31_Point/com/dhawan/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/src/com/dhawan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/31_Point/src/com/dhawan/Point.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Outlander.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/32_CarpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/33_ComplexOperations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/out/production/33_ComplexOperations/com/company/ComplexNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/out/production/33_ComplexOperations/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/src/com/company/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -260,6 +221,10 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -387,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
