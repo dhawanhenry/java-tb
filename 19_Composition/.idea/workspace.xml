@@ -2,56 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6e144f5-dca7-45a1-8019-6d2b86c3eea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Fish.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/out/production/19_Inheritance/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Outlander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/out/production/19_Inheritance_Challenge/com/company/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Outlander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/src/com/company/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/32_CarpetCostCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Carpet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Floor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/out/production/32_CarpetCostCalculator/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/32_CarpetCostCalculator/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/33_ComplexOperations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/out/production/33_ComplexOperations/com/company/ComplexNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/out/production/33_ComplexOperations/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/src/com/company/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercises/33_ComplexOperations/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_Inheritance_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition_test/src/com/company/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhawan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhawan/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="285">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -78,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="90">
               <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
@@ -87,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -96,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Motherboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="270">
               <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
             </state>
           </provider>
@@ -105,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Monitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
+            <state relative-caret-position="390">
               <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
             </state>
           </provider>
@@ -114,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Case.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
+            <state relative-caret-position="360">
               <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             </state>
           </provider>
@@ -123,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Dimensions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -132,8 +93,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/PC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="345">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <folding>
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Resolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="210">
               <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
@@ -195,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -219,11 +187,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,19 +233,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="948" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.20154044" />
-      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.20154044" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49649534" visible="true" weight="0.20759289" />
+      <window_info id="Structure" order="1" sideWeight="0.5035047" side_tool="true" visible="true" weight="0.20759289" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -283,77 +250,88 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="90">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Motherboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Resolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="210">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/PC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Dimensions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Motherboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="285">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
