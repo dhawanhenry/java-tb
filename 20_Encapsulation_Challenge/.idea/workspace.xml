@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd41f396-d720-419b-8222-4a7ce256f1a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2c93ec4c-1193-4b94-ae46-aad5dfb90322" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Encapsulation_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/20_Encapsulation_Challenge/com/dhawan/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/20_Encapsulation_Challenge/com/dhawan/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhawan/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20_Encapsulation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,29 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="11" column="134" selection-start-line="11" selection-start-column="134" selection-end-line="11" selection-end-column="134" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dhawan/EnhancedPlayer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dhawan/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="525">
+              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+              <folding>
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,9 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dhawan/Player.java" />
         <option value="$PROJECT_DIR$/src/com/dhawan/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/dhawan/EnhancedPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/dhawan/Printer.java" />
       </list>
     </option>
   </component>
@@ -75,22 +81,21 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="20_Encapsulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20_Encapsulation" type="462c0819:PsiDirectoryNode" />
+              <item name="20_Encapsulation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20_Encapsulation_Challenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="20_Encapsulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20_Encapsulation" type="462c0819:PsiDirectoryNode" />
+              <item name="20_Encapsulation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20_Encapsulation_Challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="20_Encapsulation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="20_Encapsulation" type="462c0819:PsiDirectoryNode" />
+              <item name="20_Encapsulation_Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20_Encapsulation_Challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dhawan" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -98,10 +103,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564849060651" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565136298888" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +124,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.dhawan.Main" />
-      <module name="20_Encapsulation" />
+      <module name="20_Encapsulation_Challenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -137,18 +143,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cd41f396-d720-419b-8222-4a7ce256f1a9" name="Default Changelist" comment="" />
-      <created>1564846026224</created>
+      <changelist id="2c93ec4c-1193-4b94-ae46-aad5dfb90322" name="Default Changelist" comment="" />
+      <created>1564949665480</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564846026224</updated>
+      <updated>1564949665480</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="948" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="940" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15831988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -157,7 +163,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32945284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282887" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -179,25 +185,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="11" column="134" selection-start-line="11" selection-start-column="134" selection-end-line="11" selection-end-column="134" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/EnhancedPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhawan/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="525">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
           <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
           </folding>
         </state>
       </provider>
