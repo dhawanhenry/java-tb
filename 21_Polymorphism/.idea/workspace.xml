@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd53863-d1ef-48cd-88dc-7568b4db7dc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/20_Encapsulation_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/out/production/20_Encapsulation_Challenge/com/dhawan/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/out/production/20_Encapsulation_Challenge/com/dhawan/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/src/com/dhawan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20_Encapsulation_Challenge/src/com/dhawan/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../20_Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20_Encapsulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,33 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-              </folding>
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -89,8 +50,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +72,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,15 +123,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="940" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5011792" side_tool="true" weight="0.1825525" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882075" visible="true" weight="0.1825525" />
-      <window_info id="Structure" order="1" sideWeight="0.5011792" side_tool="true" visible="true" weight="0.1825525" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18497577" />
+      <window_info id="Structure" order="1" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.18497577" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011792" side_tool="true" weight="0.1825525" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -196,33 +156,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/dhawan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-          </folding>
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
