@@ -45,7 +45,8 @@ public class Branch {
             if(checkedCustomer.getName().equals(customerName)){
                 return checkedCustomer;
             }
-            return null;
+
         }
+        return null;
     }
 }
