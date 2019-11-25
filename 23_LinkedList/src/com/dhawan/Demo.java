@@ -22,6 +22,8 @@ public class Demo {
 
         addInOrder(placesToVisit, "Alice Springs");
         addInOrder(placesToVisit, "Darwin");
+        addInOrder(placesToVisit, "Aabaachee");
+        addInOrder(placesToVisit, "Zyzzy City");
         printList(placesToVisit);
         visit(placesToVisit);
     }
@@ -117,7 +119,6 @@ public class Demo {
                     printMenu();
                     break;
             }
-
         }
     }
 
