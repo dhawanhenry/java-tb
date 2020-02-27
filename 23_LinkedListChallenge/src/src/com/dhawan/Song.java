@@ -1,6 +1,7 @@
-package com.company;
+package src.com.dhawan;
 
 public class Song {
+
     private String title;
     private double duration;
 

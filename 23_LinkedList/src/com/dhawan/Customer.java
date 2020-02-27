@@ -1,4 +1,4 @@
-package com.dhawan;
+package src.com.dhawan;
 
 public class Customer {
     private String name;

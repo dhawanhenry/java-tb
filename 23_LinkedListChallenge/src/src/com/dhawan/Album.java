@@ -1,4 +1,4 @@
-package com.company;
+package src.com.dhawan;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -50,6 +50,4 @@ public class Album {
         System.out.println("The song " + title + " is not in this album");
         return false;
     }
-
-
 }
