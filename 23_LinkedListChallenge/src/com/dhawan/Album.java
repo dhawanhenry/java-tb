@@ -1,4 +1,4 @@
-package src.com.dhawan;
+package com.dhawan;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package src.com.dhawan;
+package com.dhawan;
 
 public class Song {
 
